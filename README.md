@@ -4,12 +4,12 @@
 JDK
 
 ## You will find in this repo:
-*Math Utility Java source code
-*.gitignore file to tell git which one will be uploaded
-*README.md - this file itself to show the homepage of this repo 
+* Math Utility Java source code
+* .gitignore file to tell git which one will be uploaded
+* README.md - this file itself to show the homepage of this repo 
 
 ## Connect me via
-[Facebook](https://www.facebook.com/ledachoang.phuc)
-[Email](mailto:ledachoangphuc249@gmail.com)
+1. [Facebook](https://www.facebook.com/ledachoang.phuc)
+2. [Email](mailto:ledachoangphuc249@gmail.com)
 
 #### ©2020 by lephuc
