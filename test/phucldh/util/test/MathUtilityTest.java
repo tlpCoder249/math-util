@@ -23,7 +23,7 @@ public class MathUtilityTest {
         assertEquals(1, MathUtility.getFactorial(1));
         assertEquals(2, MathUtility.getFactorial(2));
         assertEquals(6, MathUtility.getFactorial(3));
-        assertEquals(24, MathUtility.getFactorial(4));
+        assertEquals(240, MathUtility.getFactorial(4));
         assertEquals(120, MathUtility.getFactorial(5));
         assertEquals(720, MathUtility.getFactorial(6));
         // Xanh chỉ đạt được khi tất cả cùng xanh, hàm ý tất cả đều đúng hết
